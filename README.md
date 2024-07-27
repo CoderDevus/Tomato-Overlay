@@ -53,6 +53,8 @@ This project uses the following open source libraries:
 
 • fmt 
 
+#Troubleshoot
+Disable your anti-virus before launching it. Sometimes it can be flagged as a threat by your anti-virus software.
 
 # Contributing 
 All feedback, issues and PRs are welcome
