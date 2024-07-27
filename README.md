@@ -1,3 +1,5 @@
+# Description
+A powerful and feature-rich Hypixel anti-sniping stats overlay.                              
 # Features
 1. Simple to use
 2. Shows the stats of other players in your game almost instantly
@@ -12,8 +14,11 @@
 11. Written in native C++
 12. Open source
 13. Uses fmt
-![Tomato overlay](https://github.com/user-attachments/assets/376327ca-f0a3-478e-a71a-dbdf16287b7c)
+14. View your opponent’s quickbuy
+15. Discord rich presence
 
+
+![Tomato overlay](https://github.com/user-attachments/assets/376327ca-f0a3-478e-a71a-dbdf16287b7c)
 
 
 
