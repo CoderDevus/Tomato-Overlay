@@ -28,6 +28,11 @@ A powerful and feature-rich Hypixel anti-sniping stats overlay.
 
 # Download
 You can download the latest release of this Stats Overlay for Windows. Other platforms are currently not supported yet.
+1. Download the rar.
+2. Extract it.
+3. Run the overlay
+
+The download is in the releases tab.
 
 # Usage
 To run this program, you will need to first download the latest release in the "Releases" Tab.
